@@ -1,3 +1,7 @@
+I used TailwindCss, Firebase, and Firestore in this project created with React. With Axios, I fetched movies from the TMDB API. You can login and register with Firebase and keep track of your favorite movies that you liked and want to watch later in the account section with the help of Firestore. It is a Netflix clone project, and if you want to contribute, please do not hesitate to write. I hope you enjoy it :)
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
